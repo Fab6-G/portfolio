@@ -27,7 +27,10 @@ If you have any questions or would like to see more examples of my work, feel fr
 Contact
 
 Portfolio Website: fabiangoldie.com
+
 Email: [fabian.goldie@gmail.com]
+
 LinkedIn: [https://www.linkedin.com/in/fabian-goldie/]
+
 
 Thank you for visiting my code portfolio!

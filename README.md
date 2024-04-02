@@ -26,7 +26,7 @@ If you have any questions or would like to see more examples of my work, feel fr
 
 Contact
 
-Portfolio Website: fabiangoldie.com
+Portfolio Website: [fabiangoldie.com]
 
 Email: [fabian.goldie@gmail.com]
 
